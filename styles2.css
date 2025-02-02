@@ -1,0 +1,55 @@
+/* General Page Styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+/* Container for the hospital details */
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  background: white;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+/* Hospital Image Styling */
+.hospital-logo {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+logo-container {
+  width: 350px;
+  height: 350px;
+  background-image: url('background.png'); /* Background image */
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* Hospital Details Styling */
+.hospital-details {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  margin-top: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+  .container {
+      width: 90%;
+      padding: 10px;
+  }
+}body {
+  background-image: url('hospital.jpeg'); /* Update the path if needed */
+  background-size: cover; /* Adjusts image to cover the full screen */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents image repetition */
+  background-attachment: fixed; /* Keeps the background fixed on scroll */
+}

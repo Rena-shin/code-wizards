@@ -2,13 +2,12 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Code Wizards
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Rena fathima  - Emea 
+- Member 2: shinana parveen - Emea 
 
 ### Hosted Project Link
 [mention your project hosted project link here]
@@ -25,9 +24,9 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
+- html
+- css
+- java script
 - [Tools used]
 
 For Hardware:
@@ -36,7 +35,7 @@ For Hardware:
 - [List tools required]
 
 ### Implementation
-For Software:
+
 # Installation
 [commands]
 
